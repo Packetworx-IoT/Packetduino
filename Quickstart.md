@@ -8,8 +8,10 @@ Below is the comprehensive guide in using the packetDUINO.
 
 ![image](https://user-images.githubusercontent.com/110519487/182997548-f8b14bdc-e61a-4f08-86bc-321994d06c52.png)
 
-2. Open the 
+2. Copy and paste the link below into the Additional Boards Manager URLs option in the Arduino IDE preferences then press Ok.
 
-![image](https://user-images.githubusercontent.com/110519487/182997970-6788098e-e662-4665-bc57-0b6451f6e7f7.png)
+*https://adafruit.github.io/arduino-board-index/package_adafruit_index.json*
+
+![pasting-preference](https://user-images.githubusercontent.com/110519487/182998070-5bb4e0b7-f43f-4fe7-b995-e129038cf194.png)
 
 
