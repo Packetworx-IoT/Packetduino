@@ -37,9 +37,9 @@ Below is the comprehensive guide in using the packetDUINO.
 
 2. Make sure to select the correct serial port then click **Upload**.
 
-![image](https://user-images.githubusercontent.com/110519487/182999776-0a3d666b-6d06-4d02-abe4-e9744a6cb424.png)
+![image](https://user-images.githubusercontent.com/110519487/183000267-1e5c07b5-3a59-44d4-838d-8168448c529e.png)
 
-![image](https://user-images.githubusercontent.com/110519487/182999919-af6becd2-4169-4e77-98dc-5fec01c76c10.png)
+![image](https://user-images.githubusercontent.com/110519487/183000315-4ca7bfc7-db1c-4146-ae8c-4521fdd05a0d.png)
 
 3. After successful upload, open up the **Serial Monitor** to see the result.
 
