@@ -3,6 +3,7 @@
 Below is the comprehensive guide in using the packetDUINO.
 
 - [Installing the packetDUINO to Arduino IDE](/Quickstart.md#installing-the-packetduino-to-your-arduino-ide)
+- [Running your first code in packetDUINO](/Quickstart.md#running-your-first-code)
 
 ### Installing the packetDUINO to your Arduino IDE
 
