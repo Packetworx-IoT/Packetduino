@@ -28,6 +28,25 @@ Below is the comprehensive guide in using the packetDUINO.
 
 ![image](https://user-images.githubusercontent.com/110519487/182999273-248612b0-b5dd-447e-bac0-ca130fa88516.png)
 
+### Running your first code
+
+1. Copy the code below.
+
+![image](https://user-images.githubusercontent.com/110519487/183000139-f101e183-7817-4f4e-a3eb-d2db8899fc59.png)
+
+
+2. Make sure to select the correct serial port then click **Upload**.
+
+![image](https://user-images.githubusercontent.com/110519487/182999776-0a3d666b-6d06-4d02-abe4-e9744a6cb424.png)
+
+![image](https://user-images.githubusercontent.com/110519487/182999919-af6becd2-4169-4e77-98dc-5fec01c76c10.png)
+
+3. After successful upload, open up the **Serial Monitor** to see the result.
+
+![image](https://user-images.githubusercontent.com/110519487/183000026-d0d828e8-0a70-412c-933d-d4b6e92ba2c1.png)
+
+
+
 
 
 
