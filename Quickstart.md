@@ -2,6 +2,8 @@
 
 Below is the comprehensive guide in using the packetDUINO.
 
+- [Installing the packetDUINO to Arduino IDE]
+
 ### Installing the packetDUINO to your Arduino IDE
 
 1. Go to File > Preferences as shown in the figure below.
