@@ -10,5 +10,6 @@ Below is the comprehensive guide in using the packetDUINO.
 
 2. Open the 
 
-![image](https://user-images.githubusercontent.com/110519487/182997922-c6930c27-0909-43b2-a08f-f71c01910fb9.png)
+![image](https://user-images.githubusercontent.com/110519487/182997970-6788098e-e662-4665-bc57-0b6451f6e7f7.png)
+
 
