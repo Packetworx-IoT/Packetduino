@@ -20,9 +20,14 @@ Below is the comprehensive guide in using the packetDUINO.
 
 ![image](https://user-images.githubusercontent.com/110519487/182998540-2706f592-7d1d-4f7f-bcb3-85e792b3230d.png)
 
-4. On Boards Manager, choose “contributed” on type and select “Adafruit AVR Boards”. Make sure that the version is 1.4.15 or above. Then, click Install.
+4. On Boards Manager, choose *contributed* on type and select *Adafruit AVR Boards*. Make sure that the version is 1.4.15 or above. Then, click Install.
 
 ![adafruit-board](https://user-images.githubusercontent.com/110519487/182998979-9e97ece9-0b0b-4d16-b08d-41eb80b0db92.png)
+
+5. Once successfully installed, proceed on *Tools> Board > Adafruit Boards* and then select *Adafruit Feather 32u4*.
+
+![image](https://user-images.githubusercontent.com/110519487/182999273-248612b0-b5dd-447e-bac0-ca130fa88516.png)
+
 
 
 
