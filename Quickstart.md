@@ -43,7 +43,10 @@ Below is the comprehensive guide in using the packetDUINO.
 
 3. After successful upload, open up the **Serial Monitor** to see the result.
 
-![image](https://user-images.githubusercontent.com/110519487/183000026-d0d828e8-0a70-412c-933d-d4b6e92ba2c1.png)
+![serial-monitor](https://user-images.githubusercontent.com/110519487/183000487-0c413819-66e4-444c-9b99-74713821192e.png)
+
+![image](https://user-images.githubusercontent.com/110519487/183000556-988e13e6-9978-44cc-9005-b4a2b3972f3a.png)
+
 
 
 
