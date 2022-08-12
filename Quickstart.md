@@ -10,17 +10,14 @@ Below is the comprehensive guide in using the packetDUINO.
 1. Go to File > Preferences as shown in the figure below.
 
 ![image](https://user-images.githubusercontent.com/110519487/182997548-f8b14bdc-e61a-4f08-86bc-321994d06c52.png)
-*Figure 1: Opening Preferences under File Tab*
 
 2. Copy and paste the link below into the Additional Boards Manager URLs option in the Arduino IDE preferences then press Ok.
 
 *https://adafruit.github.io/arduino-board-index/package_adafruit_index.json*
 
 ![pasting-preference](https://user-images.githubusercontent.com/110519487/182998070-5bb4e0b7-f43f-4fe7-b995-e129038cf194.png)
-*Figure 2: Adding Adafruit in Boards Manager*
 
 ![image](https://user-images.githubusercontent.com/110519487/182998283-1ba3e75f-f1ab-40c9-a14a-c954bad4cef6.png)
-*Figure 3: Pasting the link*
 
 3. Once done, go to Tools > Board > Boards Manager. Click the Boards Manager.
 
