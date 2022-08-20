@@ -18,5 +18,21 @@ This is a tool where you can visualize your design, publish and share your desig
 
 ![image](https://user-images.githubusercontent.com/110519487/185721780-866bfb21-ea8c-4350-81e6-b751e0621a1d.png)
 
-4. 
+4. Right-click and select **Import..**
+
+![image](https://user-images.githubusercontent.com/110519487/185722168-7800d76a-9ee1-42c8-909b-7ced989c4728.png)
+
+5. Locate the file and click **Open**.
+
+![image](https://user-images.githubusercontent.com/110519487/185722270-7f3b543a-c915-42c8-9c71-007424c1412c.png)
+
+
+6. **packetDUINO** should be shown in the right-side panel.
+
+![image](https://user-images.githubusercontent.com/110519487/185722370-700e1e1b-e900-41bf-b775-21c75a3c8e25.png)
+
+7. You can now use **packetDUINO** in your sketches.
+
+![image](https://user-images.githubusercontent.com/110519487/185722438-42371a8b-8e54-4536-8605-e121a55e54a1.png)
+
  
