@@ -13,4 +13,5 @@ Below are the links to get you started.
 - [Quickstart Guide](/Quickstart.md)
 - [Technical Specification and Hardware Parts](/Hardware.md)
 - [Sample Projects and Integrations](/Integrations.md)
+- [Circuit Design using packetDUINO in Fritzing](/Fritzing-Import.md)
 - [The Things Stack/Network Access](/TTN-access.md)
