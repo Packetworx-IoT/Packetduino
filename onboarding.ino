@@ -4,6 +4,8 @@ Onboarding Sample Sketch of Packetduino
 
 Made by Packetworx Inc.
 
+Created by Engr. Francis Guinto, Lead Firmware Engineer
+
 Maintained by Rommel Jay Gadil
 February 3, 2023
 
