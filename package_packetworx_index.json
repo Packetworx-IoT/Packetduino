@@ -448,7 +448,7 @@
               "architecture": "avr",
               "version": "1.0.0",
               "category": "Packetworx",
-              "url": "https://github.com/Packetworx-IoT/packetDUINO/blob/main/packetDUINO-package.zip",
+              "url": "https://raw.githubusercontent.com/Packetworx-IoT/packetDUINO/main/packetDUINO-package.zip",
               "archiveFileName": "packetDUINO-package.zip",
               "checksum": "SHA-256:B502EE0B10B493E09F2F6DBB06E831855F018410BEADC9A2A632641A35507DC5",
               "size": "202859",
