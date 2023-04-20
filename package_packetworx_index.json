@@ -450,7 +450,7 @@
               "category": "Packetworx",
               "url": "https://raw.githubusercontent.com/Packetworx-IoT/packetDUINO/main/packetDUINO-package.zip",
               "archiveFileName": "packetDUINO-package.zip",
-              "checksum": "SHA-256:B502EE0B10B493E09F2F6DBB06E831855F018410BEADC9A2A632641A35507DC5",
+              "checksum": "SHA-256:b502ee0b10b493e09f2f6dbb06e831855f018410beadc9a2a632641a35507dc5",
               "size": "202859",
               "help": {
                 "online": "https://packetworx.com"
