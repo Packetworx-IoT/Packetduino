@@ -1,10 +1,12 @@
-# Adafruit Arduino Boards
+# packetDUINO Board Support Package
 
-Configuration and other support files to use Packetworx's boards like packetDUINO and more with the Arduino IDE.  This is provided as
-a reference for modifying the Arduino IDE to support Packetworx's boards.  If you
-just want to program one of Packetworx's boards you probably want one of the
-preconfigured Arduino IDEs that Packetworx provides--see the learn system guide for
-your board for more details!
+The packetDuino Board Support Package (BSP) is a software package designed to enable the use of packetDUINO, a board based on the Adafruit Feather 32u4. The packetDUINO BSP provides additional functionality specific to the packetDUINO product, including support for the built-in radio module and examples and libraries for common packetDUINO applications, such as wireless communication and sensor readings.
+
+The packetDUINO BSP is easy to install and use. Simply download the latest version of the BSP from the GitHub repository, extract the contents to your Arduino sketchbook directory, and select "packetDUINO" from the board menu in the Arduino IDE. Then, you can use the included examples and libraries as a starting point for your application.
+
+The packetDUINO BSP is open source software released under the MIT license, and we welcome contributions from the community. If you have any questions, bug reports, or feedback, please don't hesitate to contact us at contact@your-company.com.
+
+Whether you're a hobbyist, student, or professional developer, the PacketDuino BSP makes it easy to get started with PacketDuino and build exciting new projects!
 
 NOTE: If you want to setup the Arduino IDE to work with these boards you probably
 want to follow this guide that shows an easy method using the board manager:
