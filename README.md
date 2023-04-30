@@ -2,15 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/110519487/235342905-f8cd85d0-ec56-4916-ad61-0fab5b6ef650.png)
 
+![image](https://user-images.githubusercontent.com/110519487/235342959-3a519275-9869-46c8-9bba-60a29e7e33f6.png)
 
-Introducing the packetDUINO, the ultimate microcontroller for Internet of Things (IoT) development. The Packetduino is based on the popular Adafruit Feather 32u4 and features advanced Lorawan capability, making it the perfect choice for IoT projects that require long-range wireless communication.
-With its powerful ACSIP module, the Packetduino is capable of transmitting data over long distances using the Lorawan protocol. This makes it ideal for use in applications such as remote monitoring, asset tracking, and smart agriculture.
-The Packetduino is designed for ease of use, with a user-friendly interface that makes programming and deployment quick and straightforward. It comes equipped with a range of features that make it versatile and customizable, including multiple serial ports, I2C and SPI interfaces, and GPIO pins.
-In addition to its Lorawan capability, the Packetduino also includes a range of other advanced features, such as a built-in USB port for easy programming and debugging, a battery charger for portable applications, and a low-power sleep mode for energy-efficient operation.
-Whether you are a professional developer or a hobbyist, the Packetduino is the perfect choice for your next IoT project. With its advanced features, ease of use, and Lorawan capability, it is sure to take your applications to the next level.
+![image](https://user-images.githubusercontent.com/110519487/235342976-63e69a70-c2e9-4cd0-a0cc-d85f695f5031.png)
+
+![image](https://user-images.githubusercontent.com/110519487/235342993-0edf1082-a420-4360-a89b-0c5d2b596526.png)
 
 
-![packetDUINO](https://user-images.githubusercontent.com/110519487/183016290-8ed6935e-8cc7-43a5-992e-df80f796fe81.png)
 
 
 Below are the links to get you started.
