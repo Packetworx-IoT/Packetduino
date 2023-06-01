@@ -14,6 +14,8 @@ In this section you will learn how to create a TTN account where you can view an
 
 ![image](https://user-images.githubusercontent.com/110519487/185465016-a6b3554c-8df1-4f7f-9035-966845109a6b.png)
 
+For account confirmation, kindly send an email to rommel.gadil@packetworx.com
+
 4. While waiting for account confirmation. You can log in to the console.
 
 ![image](https://user-images.githubusercontent.com/110519487/185465324-b2e5e1bb-ebf5-4836-86d9-bd37517e74fb.png)
